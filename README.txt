@@ -24,10 +24,3 @@ Installation proccess does not differ from any payment system for Opencart:
 
 After that your module is finally configurated and customers can choose
 Onlymoney as a payment method.
-
-
-
-
-
-Enter them in module settings here:
-YOUR_SITE_NAME/admin/store/settings/payment/method/onlymoney
